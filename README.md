@@ -16,7 +16,7 @@
 
 <br><br>
 
-## *Download It ***[Here](https://drive.google.com/uc?id=1E3uwHDhwPdMz-EODPK5V7iRrfFK915Gy&export=download)!****
+## *Download Latest Version ***[Here](https://drive.google.com/uc?id=1tFJM2JsxKFEbXl0wI_Ep-_AyC4OfKt9K&export=download!)!****
 
 <br><br>
 
