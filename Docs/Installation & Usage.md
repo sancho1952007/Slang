@@ -1,6 +1,6 @@
 # *How To Install Slang?*
 ## **Please Follow These Steps to Install Slang...**  
-[1] Download The Zip File from **[Here](https://drive.google.com/uc?id=1tFJM2JsxKFEbXl0wI_Ep-_AyC4OfKt9K&export=download)**.  
+[1] Download The Zip File from **[Here](https://drive.google.com/uc?id=1yuHNKvUtlSrzQMygXMWNRjr9xZRU5cLT&export=download)**.  
 [2] Extract the Zip File To The Desired Location...  
 [3] Done!
 
