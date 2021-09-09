@@ -7,17 +7,17 @@
 <br>
 
 ## *What is Slang?*
--> ***Slang Is A Coding Language Built in Python ;***
+<pre>Slang Is A Coding Language Built in Python</pre>
 
 <br><br>
 
 ## *What is it's Filetype?*
--> ***Filetype is: `.sl` ;***
+<pre>Filetype is: .sl</pre>
 
 <br><br>
 
-## *Download Latest Version ***[Here](https://drive.google.com/uc?id=1yuHNKvUtlSrzQMygXMWNRjr9xZRU5cLT&export=download)!****
+<pre>Download Latest Version <a href="https://drive.google.com/uc?id=1yuHNKvUtlSrzQMygXMWNRjr9xZRU5cLT&export=download">Here</a></pre>!
 
 <br><br>
 
-# Read [Docs](Docs/) For More Info...
+## Please Read [Docs](Docs/) For More Info...
