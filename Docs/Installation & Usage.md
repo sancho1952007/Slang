@@ -7,11 +7,11 @@
 <br>
 
 # *How To Install Slang On Linux?*
-[1] Go To The Directory Where You Saved Slang.deb.
-[2] Open Terminal In That Directory.
-[3] Run Command: sudo su
-[4] Run Command: dpkg -i Slang.deb
-[5] Done!
+[1] Go To The Directory Where You Saved Slang.deb.  
+[2] Open Terminal In That Directory.  
+[3] Run Command: sudo su  
+[4] Run Command: dpkg -i Slang.deb  
+[5] Done!  
 
 <br>
 
@@ -35,7 +35,7 @@
 [7] Done! Now You Can Freely Use Your `.sl` File !
 
 *Linux :-*
-[1] Go To The Directory Of The .sl File.
-[2] Open Terminal There.
-[3] Run Command: slang "Filename.sl"
-[4] Done!
+[1] Go To The Directory Of The .sl File.  
+[2] Open Terminal There.  
+[3] Run Command: slang "Filename.sl"  
+[4] Done!  
