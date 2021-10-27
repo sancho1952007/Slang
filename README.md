@@ -16,7 +16,7 @@
 
 <br><br>
 
-<pre>Download Latest Version <a href="https://drive.google.com/uc?id=1yuHNKvUtlSrzQMygXMWNRjr9xZRU5cLT&export=download">Here</a>!</pre>
+<pre>Download Latest Version <a href="https://drive.google.com/uc?id=1yuHNKvUtlSrzQMygXMWNRjr9xZRU5cLT&export=download">Here</a> (Windows) Or <a href="https://github.com/sancho1952007/Slang/raw/main/Install/Slang.deb">Here</a> (Linux)</pre>
 
 <br><br>
 
