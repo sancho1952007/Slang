@@ -87,4 +87,4 @@ exit
 
 ```
 
-### ***Explanation: The "exit" keyword is used to Exit (Not In The .SL File) ;***
+### ***Explanation: The "exit" keyword is used to Exit The Code;***
