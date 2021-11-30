@@ -1,8 +1,10 @@
 # *How To Install Slang?*
-## **Please Follow These Steps to Install Slang...**  
-[1] Download The Zip File from **[Here](https://drive.google.com/uc?id=1yuHNKvUtlSrzQMygXMWNRjr9xZRU5cLT&export=download) (Windows)**.  
-[2] Extract the Zip File To The Desired Location...  
+## **Please Follow These Steps to Install Slang...** 
+<pre>
+[1] Download The Exe File From <b><a href='https://github.com/sancho1952007/Slang/raw/main/Releases/Windows/setup.exe'>Here</a></b>(Windows).  
+[2] Run The Installer & Install The Language In Your System...
 [3] Done!
+</pre>
 
 <br>
 
