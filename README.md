@@ -21,6 +21,7 @@ Current Version: 2.0
 <pre>
 - Added Variables
 - Added Implement Variables
+- Updated Readme
 - Updated For Linux & Windows 11
 - Added Setup Wizard For Windows
 - Repaired Some Bugs
