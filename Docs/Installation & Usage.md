@@ -24,17 +24,16 @@
 
 # **How To Use Slang?**
 <pre>
-[1] Drag The `Demo.sl` or Your Created File Over Slang.exe (Windows) or,
+[1] Drag The <b>Demo.sl</b> or Your Created File Over Slang.exe (Windows) or,
 Type Command: <b>Slang Demo.sl</b> (Windows+Linux);  
 [2] See! The Code Works!  
-[3] You Need To Learn The Slang Language To Code Slang. You Can Find It In The [`Learn-Slang.md`](Learn-Slang.md) in This Directory;
+[3] You Need To Learn The Slang Language To Code Slang. You Can Find It In The <b><a href="Learn-Slang.md">Learn-Slang.md</a></b> in This Directory;
 </pre>
-
 
 <br>
 
 ## **How To Run A New Slang File?**
-***WINDOWS :-***
+***Windows :-***
 <pre>
 [1] Right Click The <b>.sl</b> File.
 [2] Choose Option: Open With.
