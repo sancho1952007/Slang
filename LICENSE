@@ -1,3 +1,5 @@
+------- Start Of MIT License -------
+
 MIT License
 
 Copyright (c) 2021 Sancho Godinho 
@@ -20,13 +22,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-
-
-
-
+------- End Of MIT License -------
 
 Extra Terms Of Use:
-You Should Not Re-Publish The Slang.exe File in Any Forms! 
+You Should Not Re-Publish The Slang Executables or The Source Code File in Any Forms! 
 You Are Only Allowed To Publish Your Built Apps Using Slang.
 You Should Not De-Compile The Slang App. Doing So Can Lead To Errors in Your Slang Code And in the App!
 The Developer (Sancho Godinho) Will Not Be Blamed For Any Cause Of Damage Caused By Slang (If Decompiled, Bad Code or Other Reasons).
