@@ -2,8 +2,7 @@
 # Repo. Under Development...
 <br>
 
-![](https://img.shields.io/badge/version-v1.0-green) &nbsp; ![](https://img.shields.io/badge/Filetype-.sl-blue)
-
+<a href="https://github.com/sancho1952007/Slang"><img src='https://img.shields.io/badge/version-v2.0-green'></a> &nbsp; <a href="https://github.com/sancho1952007/Slang"><img src='https://img.shields.io/badge/Filetype-.sl-blue'></a>
 <br>
 
 ## *What is Slang?*
