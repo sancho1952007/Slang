@@ -57,7 +57,7 @@ Hello World!
 
 
 
-## ***4.*** *How To Exit The Terminal?*
+## ***4.*** *How To Start A File/URL?*
 ### ***Code :-***
 ```
 start https://github.com/sancho1952007
@@ -84,7 +84,41 @@ exit
 
 ### ***Output :-***
 ```
-
 ```
 
-### ***Explanation: The "exit" keyword is used to Exit The Code;***
+### ***Explanation: The "exit" keyword is used to Exit (Not In The .SL File) ;***
+
+
+<br><br><br><br>
+
+
+## ***6.*** *How To Make A Variable?*
+### ***Code :-***
+```
+name="Bot"
+```
+
+### ***Output :-***
+```
+```
+### ***Explanation: To Create A Variable Is Very Simple! You Just Have To Add An = After The Variable Name. But, Don't Add A Space Between The = And The Variable Name & The Value...***
+<br>
+
+### ***Rules For Making A Variable: Variable Shold Start With A Alphabet, Number, _ or - Any Charcter Except For Special Characters.They Can Contain Numbers, Alphabets, _ or -***
+
+
+<br><br><br><br>
+
+
+## ***7***. *How To Implement Variables*
+### ***Code :-***
+```
+say I Am A :name
+```
+
+***Output :-***
+```
+I Am A Bot
+```
+
+***Explanation: To Implement Variables, You Have To Add A : Then The Variable Name After It Without A Space!<br> The Above Example, The Variable name Holds The Value Of Bot So,<br>It Displayed The Text Bot Instead Of :name<br><br>You Can Implement Function Using The Variables Eg:<br><br>code="say Hello World"<br>:code<br><br>This Will Display Hello World As, The Variable code Holds The Value Of say Hello WOrld Which Will Be Executed And Give The Result As Hello World.***
