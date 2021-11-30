@@ -1,5 +1,7 @@
 # *How To Install Slang?*
-## **Please Follow These Steps to Install Slang...** 
+<br>
+
+***Windows***
 <pre>
 [1] Download The Exe File From <b><a href='https://github.com/sancho1952007/Slang/raw/main/Releases/Windows/setup.exe'>Here</a></b>(Windows).  
 [2] Run The Installer & Install The Language In Your System...
@@ -8,12 +10,15 @@
 
 <br>
 
-# *How To Install Slang On Linux?*
-[1] Go To The Directory Where You Saved Slang.deb.  
-[2] Open Terminal In That Directory.  
-[3] Run Command: sudo su  
-[4] Run Command: dpkg -i Slang.deb  
-[5] Done!  
+***Linux***
+<pre>
+[1] Download The Slang.deb From <b><a href="https://github.com/sancho1952007/Slang/raw/main/Releases/Linux/Slang.deb">Here</a></b>.
+[2] Go To The Directory Where You Saved Slang.deb.  
+[3] Open Terminal In That Directory.  
+[4] Run Command: sudo su  
+[5] Run Command: dpkg -i Slang.deb  
+[6] Done!
+</pre>
 
 <br>
 
