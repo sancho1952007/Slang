@@ -20,6 +20,7 @@ Current Version: 2.0
 ## *What's New?*
 <pre>
 - Become Open-Source
+- Become Stable
 - Added Variables
 - Added Implement Variables
 - Updated Readme
