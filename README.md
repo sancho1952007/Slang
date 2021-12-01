@@ -23,6 +23,7 @@ Current Version: 2.0
 - Added Implement Variables
 - Updated Readme
 - Updated For Linux & Windows 11
+- New Demo.sl Added
 - Added Setup Wizard For Windows
 - Repaired Some Bugs
 </pre>
