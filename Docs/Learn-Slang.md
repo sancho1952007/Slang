@@ -49,7 +49,7 @@ command echo Hello World!
 Hello World!
 ```
 
-### ***Explanation: The "command" keyword is used to Run A Terminal Command From Thr Script ;***
+### ***Explanation: The "command" keyword is used to Run A Terminal Command From The Script ;***
 
 
 
