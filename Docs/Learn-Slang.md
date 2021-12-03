@@ -68,7 +68,7 @@ start https://github.com/sancho1952007
 
 ```
 
-### ***Explanation: The "start" keyword is used to start A Website Or A File...***
+### ***Explanation: The "start" keyword is used to Open A Website Or to Start A File...***
 
 
 
